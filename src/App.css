@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#backgroundcolor
+{
+  /* background-image: linear-gradient(to top right, #44d179b3, #fb44d499, #0eb9e08a, #c11fab70, #09e276ad); */
+  /* background-color: #86e0b78c !important; */
+}
+/* .btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+  background-color: #5ff297;
+  
+} */
+
+/* element.style {
+  background-color: #86e0b730 !important;
+} */
+
+/* .h1,h1
+{
+  color:red !important;
+}
+.h2,h2
+{
+  color:red !important;
+} */
+/* .container my-3{
+  background-color: black;
+  color:white;
+} */
+/* #root {
+background-image: linear-gradient(to top right, #44d179b3, #fb44d499, #0eb9e08a, #c11fab70, #09e276ad) !important;
+} */
