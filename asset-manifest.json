@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Word-Counter/static/css/main.7c4bc907.chunk.css",
+    "main.js": "/TextUtils-Word-Counter/static/js/main.03d14f7d.chunk.js",
+    "main.js.map": "/TextUtils-Word-Counter/static/js/main.03d14f7d.chunk.js.map",
+    "runtime~main.js": "/TextUtils-Word-Counter/static/js/runtime~main.79192d62.js",
+    "runtime~main.js.map": "/TextUtils-Word-Counter/static/js/runtime~main.79192d62.js.map",
+    "static/js/2.0be0e1ec.chunk.js": "/TextUtils-Word-Counter/static/js/2.0be0e1ec.chunk.js",
+    "static/js/2.0be0e1ec.chunk.js.map": "/TextUtils-Word-Counter/static/js/2.0be0e1ec.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/TextUtils-Word-Counter/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/TextUtils-Word-Counter/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/TextUtils-Word-Counter/index.html",
+    "precache-manifest.63ea8521834a521db66fff11270838af.js": "/TextUtils-Word-Counter/precache-manifest.63ea8521834a521db66fff11270838af.js",
+    "service-worker.js": "/TextUtils-Word-Counter/service-worker.js",
+    "static/css/main.7c4bc907.chunk.css.map": "/TextUtils-Word-Counter/static/css/main.7c4bc907.chunk.css.map"
+  }
+}
