@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // corrected import
+import { BrowserRouter as Router, Routes, Route,Navigate } from 'react-router-dom'; // corrected import
 import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
@@ -43,7 +43,8 @@ function App() {
         <Alert alert={alert}/>
         <div className="container my-3">
           <Routes> {/* Define your routes inside Routes */}
-            <Route exact path="/" element={<TextForm showAlert={showAlert} heading="Enter Your Text For Analyze" mode={mode} />} />
+          <Route path="/" element={<Navigate to="/TextForm" />} />
+            <Route exact path="/TextForm" element={<TextForm showAlert={showAlert} heading="Enter Your Text For Analyze" mode={mode} />} />
             <Route  exact path="/about" element={<About />} />
           </Routes>
         </div>
