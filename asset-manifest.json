@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TextUtils-Word-Counter/static/css/main.7c4bc907.chunk.css",
-    "main.js": "/TextUtils-Word-Counter/static/js/main.2fd803d9.chunk.js",
-    "main.js.map": "/TextUtils-Word-Counter/static/js/main.2fd803d9.chunk.js.map",
-    "runtime~main.js": "/TextUtils-Word-Counter/static/js/runtime~main.79192d62.js",
-    "runtime~main.js.map": "/TextUtils-Word-Counter/static/js/runtime~main.79192d62.js.map",
-    "static/js/2.1e755b7c.chunk.js": "/TextUtils-Word-Counter/static/js/2.1e755b7c.chunk.js",
-    "static/js/2.1e755b7c.chunk.js.map": "/TextUtils-Word-Counter/static/js/2.1e755b7c.chunk.js.map",
-    "static/js/3.68d536b4.chunk.js": "/TextUtils-Word-Counter/static/js/3.68d536b4.chunk.js",
-    "static/js/3.68d536b4.chunk.js.map": "/TextUtils-Word-Counter/static/js/3.68d536b4.chunk.js.map",
-    "index.html": "/TextUtils-Word-Counter/index.html",
-    "precache-manifest.3cd10cb62d85dbaacd781404c1bed73a.js": "/TextUtils-Word-Counter/precache-manifest.3cd10cb62d85dbaacd781404c1bed73a.js",
-    "service-worker.js": "/TextUtils-Word-Counter/service-worker.js",
-    "static/css/main.7c4bc907.chunk.css.map": "/TextUtils-Word-Counter/static/css/main.7c4bc907.chunk.css.map"
+    "main.css": "/TextUtils-Word-Counter/TextForm/static/css/main.7c4bc907.chunk.css",
+    "main.js": "/TextUtils-Word-Counter/TextForm/static/js/main.2fd803d9.chunk.js",
+    "main.js.map": "/TextUtils-Word-Counter/TextForm/static/js/main.2fd803d9.chunk.js.map",
+    "runtime~main.js": "/TextUtils-Word-Counter/TextForm/static/js/runtime~main.9f6a6a32.js",
+    "runtime~main.js.map": "/TextUtils-Word-Counter/TextForm/static/js/runtime~main.9f6a6a32.js.map",
+    "static/js/2.1e755b7c.chunk.js": "/TextUtils-Word-Counter/TextForm/static/js/2.1e755b7c.chunk.js",
+    "static/js/2.1e755b7c.chunk.js.map": "/TextUtils-Word-Counter/TextForm/static/js/2.1e755b7c.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/TextUtils-Word-Counter/TextForm/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/TextUtils-Word-Counter/TextForm/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/TextUtils-Word-Counter/TextForm/index.html",
+    "precache-manifest.c58e5972281f3cd80afcf1b02a24957d.js": "/TextUtils-Word-Counter/TextForm/precache-manifest.c58e5972281f3cd80afcf1b02a24957d.js",
+    "service-worker.js": "/TextUtils-Word-Counter/TextForm/service-worker.js",
+    "static/css/main.7c4bc907.chunk.css.map": "/TextUtils-Word-Counter/TextForm/static/css/main.7c4bc907.chunk.css.map"
   }
 }
