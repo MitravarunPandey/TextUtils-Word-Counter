@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02bea4061aece1a82d81b28b14f01e77",
+    "revision": "314453f6bb1178c524a8b4b35097a976",
     "url": "/TextUtils-Word-Counter/index.html"
   },
   {
-    "revision": "b74fd421d12be41c9b42",
+    "revision": "abd7ecc6af349934ea10",
     "url": "/TextUtils-Word-Counter/static/css/main.7c4bc907.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TextUtils-Word-Counter/static/js/3.68d536b4.chunk.js"
   },
   {
-    "revision": "b74fd421d12be41c9b42",
-    "url": "/TextUtils-Word-Counter/static/js/main.49a7575b.chunk.js"
+    "revision": "abd7ecc6af349934ea10",
+    "url": "/TextUtils-Word-Counter/static/js/main.7752d356.chunk.js"
   },
   {
     "revision": "7f9efc6d5d1ed0b877aa",
