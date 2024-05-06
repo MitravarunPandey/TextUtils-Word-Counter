@@ -38,7 +38,7 @@ function App() {
 
   return (
     <>
-      <Router> {/* Wrap your routes with Router */}
+      <Router> 
         <Navbar title="TextUtiles" mode={mode} togleMode={toggleMode} />
         <Alert alert={alert}/>
         <div className="container my-3">
